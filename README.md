@@ -1,58 +1,37 @@
-<h1 align="center">👋 Olá, eu sou o Carlos!</h1>
-<h3 align="center">Desenvolvedor apaixonado por transformar ideias em código</h3>
+<h1 align="center">
+  🚀 Olá, eu sou Carlos F. Lima!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<h3 align="center">
+  💻 Desenvolvedor Python | 🕸️ Web Scraping | 📊 Análise de Dados
+</h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="banner" width="800" height="300"/>
+  <img src="https://placehold.co/800x400?text=Bem-vindo+ao+meu+universo+tech!&font=roboto" alt="banner" width="800" height="400" style="border-radius: 15px;">
 </p>
 
 ---
 
-### 🧑💻 Sobre Mim
-Sou um profissional de tecnologia com X anos de experiência em desenvolvimento full-stack. Adoro criar soluções inovadoras para problemas complexos e sou fascinado por inteligência artificial e IoT. Quando não estou codando, você me encontra pedalando montanhas ou experimentando novas receitas na cozinha!
-
----
-
-### 🚀 Projetos Destacados
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[AI Chatbot](https://github.com/)** | Chatbot inteligente para atendimento ao cliente | `Python` `TensorFlow` `Docker` |
-| **[EcoTracker](https://github.com/)** | Sistema de monitoramento ambiental em tempo real | `IoT` `Node.js` `React` |
-| **[TaskFlow](https://github.com/)** | Gerenciador de tarefas colaborativo | `TypeScript` `Next.js` `MongoDB` |
-
----
-
-### 🛠️ Habilidades Técnicas
-
-**Linguagens:**  
-![C++](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Ferramentas:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📫 Vamos Conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-linkedin])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[seu-twitter])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-
----
+## 📌 Destaques
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusername&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosfallen&show_icons=true&theme=dark&hide_border=true" alt="stats" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=carlosfallen&theme=dark&hide_border=true" alt="streak" height="160">
 </p>
 
-<p align="center">
-  ⚡ "A única maneira de fazer um excelente trabalho é amar o que você faz" - Steve Jobs
-</p>
+---
+
+## 🧑💻 Sobre Mim
+
+```python
+class SobreMim:
+    def __init__(self):
+        self.pronomes = "ele/dele"
+        self.foco = "Desenvolvimento Backend e Automação"
+        self.habilidades_principais = ["Python", "Web Scraping", "Flask", "Pandas"]
+        self.interesses = ["Automação de Processos", "Ciência de Dados", "APIs REST"]
+        self.fatos_curiosos = [
+            "Já criei um bot que monitora preços de criptomoedas",
+            "Automatizei relatórios financeiros para uma pequena empresa"
+        ]
