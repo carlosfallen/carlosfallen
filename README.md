@@ -9,7 +9,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=carlosfallen&show_icons=true&theme=dark&hide_border=true" alt="stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosfallen&theme=dark&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosfallen&theme=dark&hide_border=true" height="160">
 </p>
 
 ---
