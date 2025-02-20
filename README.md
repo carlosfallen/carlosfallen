@@ -49,7 +49,7 @@ class SobreCarlos:
 <!-- START_SECTION:activity -->
 1. 🚀 Lançamento do [Kiosk Launcher](https://github.com/carlosfallen/Kiosk-Launcher) - 3 dias atrás
 2. 📊 Atualização no [Gerenciador de Dispositivos](https://github.com/carlosfallen/tabela-vite-node) - 1 dias atrás
-3. 📚 Novo projeto adicionado ao [Portifolio](https://github.com/carlosfallen/portfolio) - 1 semana atrás
+3. 📚 Novo projeto adicionado ao [Portfolio](https://github.com/carlosfallen/portfolio) - 1 semana atrás
 <!-- END_SECTION:activity -->
 
 ---
