@@ -1,10 +1,5 @@
 # 👋 Olá, eu sou Carlos!
 
-<h3 align="center">
-  Desenvolvedor Full Stack | Especialista em React | Entusiasta de Automação
-</h3>
-
-
 ## 📌 Destaques
 
 <p align="center">
