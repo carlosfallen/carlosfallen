@@ -32,7 +32,7 @@ class SobreCarlos:
 |---------|-----------|-------------|
 | **[Chamados TI](https://github.com/carlosfallen/form-chamados)** | Sistema de chamados para TI | `React` `Vite` `Firebase` |
 | **[Gerenciador de Dispositivos](https://github.com/carlosfallen/tabela-vite-node)** | Controle de dispositivos na rede local | `React` `Vite` `Node` |
-| **[Chat particular](https://github.com/carlosfallen/chatreact)** | Um chat criado para uma conversa | `React` `Firestore` `missing` |
+| **[Kiosk Launcher](https://github.com/carlosfallen/Kiosk-Launcher)** | Um app craido para privar apks | `Kotlin` `Java` `Android Studio` |
 
 ---
 
