@@ -30,7 +30,7 @@ class SobreCarlos:
 ### ⚙️ Principais Contribuições
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[Chamados TI](https://github.com/carlosfallen/form-chamados)** | Sistema de chamados para TI | `React` `Vite` `Firebase` |
+| **[Base PDV](https://github.com/carlosfallen/PDV)** | PDV para um loja pequena | `C++` `QT` `Firebase` |
 | **[Gerenciador de Dispositivos](https://github.com/carlosfallen/tabela-vite-node)** | Controle de dispositivos na rede local | `React` `Vite` `Node` |
 | **[Kiosk Launcher](https://github.com/carlosfallen/Kiosk-Launcher)** | Um app craido para privar apks | `Kotlin` `Java` `Android Studio` |
 
