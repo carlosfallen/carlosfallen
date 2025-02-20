@@ -50,7 +50,7 @@ class SobreCarlos:
 
 ### 🖊️ Editores
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,qt,androidstudio,visualstudio,clion,cmake,figma,idea,pycharm" alt="Editores">
+  <img src="https://skillicons.dev/icons?i=vscode,qt,androidstudio,visualstudio,clion,figma,idea,pycharm" alt="Editores">
 </p>
 
 ### 🔧 Ferramentas
