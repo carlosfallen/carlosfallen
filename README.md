@@ -15,10 +15,10 @@
 class SobreCarlos:
     def __init__(self):
         self.pronomes = "ele/dele"
-        self.foco = "Automação e Reac"
-        self.tecnologias = ["Node", "React", "Vite", "QT", Kotlin]
+        self.foco = "Automação e React"
+        self.tecnologias = ["Node", "React", "Vite", "QT", "kotlin"]
         self.interesses = ["Web Design", "APIs REST", "SQlite"]
-        self.curiosidade = "Automatizei mais de 50 processos manuais em 2024"
+        self.curiosidade = "Automatizei mais de 40 processos manuais em 2024"
 ```
 ## 🏆 Projetos Destacados
 
