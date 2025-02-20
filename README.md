@@ -38,8 +38,24 @@ class SobreCarlos:
 
 ## 🛠️ Stack Tecnológica
 
+### 📌 Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,git,github,vscode,linux,postman" alt="tech stack">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,qt,nodejs,electron" alt="Frameworks">
+</p>
+
+### 🖥️ Linguagens de Programação
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,cpp,kotlin" alt="Linguagens">
+</p>
+
+### 🖊️ Editores
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,qt,androidstudio,visualstudio,clion,cmake,figma,idea,pycharm" alt="Editores">
+</p>
+
+### 🔧 Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,firebase,supabase,bash,sqlite,postgresql" alt="Ferramentas">
 </p>
 
 ---
